@@ -14,20 +14,54 @@
 ---
 
 
-## 📂 Portfolio Projects
 
-### 🔸 **Android Native (Jetpack Compose + Kotlin)**
-- [🔐 Encrypted Notes (Jetpack Compose)](#)
-- [🛒 Shopping App (MVVM + Room + Retrofit)](#)
-- [📍 Location Tracker with Permissions + LiveData](#)
+## 🚀 Featured Projects
 
-### 🔹 **Flutter Apps**
-- [📅 Task Manager (Hive + Riverpod)](#)
-- [🕌 AlBukoor - Islamic Tracker](https://play.google.com/store/apps/details?id=io.gonative.android.rbwxbb)
-- [🛒 Flutter E-Commerce (API + GetX)](#)
-- [📚 MyKG - Kids Learning App](https://play.google.com/store/apps/details?id=com.mykg_company.app)
+### 🔸 Android Native Apps (Jetpack Compose + Kotlin)
+
+  - [🏥 DarAlshifa – Healthcare App](https://play.google.com/store/apps/details?id=com.emam.mawaqaa.dash&hl=en)  
+    Secure healthcare mobile app with **encrypted local data**, **appointment booking**, and **custom UI** with **Kotlin** and **XML**.
+ 
+  - [🛒 Twarrad – E-Commerce App](https://play.google.com/store/search?q=twarrad&c=apps&hl=en)  
+    Android App e-commerce platform with **secure authentication**, **REST API integration**, and **shopping cart system**.
+  
+  - [🕌 AlBukoor – Islamic Daily Tracker](#)
+    Islamic habit tracker for daily deeds, built in **JetpackCompose** with **offline support**, **custom theming**, and **interactive UI**.
+  
+  - [⚽ Mal3ab Kuwait – Sports venue booking and team collaboration app](https://play.google.com/store/apps/details?id=io.gonative.android.rbwxbb)
+    Islamic habit tracker for daily deeds, built in JetpackCompose with **offline support**, **custom theming**, and **interactive UI**.
+
+  - [🔐 Encrypted Notes App (Jetpack Compose)](#)  
+    Secure note-taking app using **Room (SQLCipher)**, **Biometric Auth**, and **Jetpack Compose** with MVVM architecture.
+  
+  - [🛍️ Shopping App (MVVM + Room + Retrofit)](#)  
+    Android shopping app with **product catalog**, **cart system**, and **local caching** using Room, built in Kotlin with Clean Architecture.
+  
+  - [📍 Location Tracker App (Permissions + LiveData)](#)  
+    Real-time location tracker with **runtime permissions**, **ForegroundService**, and **LiveData + FusedLocationProviderClient**.
+  
+---
+
+### 🔹 Flutter Apps
+
+  - [📚 MyKG – Kids Learning App](https://play.google.com/store/apps/details?id=com.mykg_company.app)  
+    Flutter educational app for kids with **offline lessons**, **multimedia support**, and **child-friendly UI** powered by Sharedpreferences.
+  
+  - [📅 Task Manager (Hive + Riverpod)](#)  
+    A minimal and offline-capable task manager app built with **Riverpod**, **Hive**, and **Flutter animations** using **Clean Architecture**.
+  
+  - [🔐 Secure Notes (AES + Biometric Auth)](#)  
+    Encrypted note-taking app with **AES encryption**, **biometric authentication**, and secure **local storage** using Flutter.
+  
+  - [🛍️ E-Commerce App (GetX / Provider)](#)  
+    Full e-commerce solution with **REST API integration**, **product catalog**, **cart and orders**, using **GetX or Provider** for state management.
+  
+  - [📱 Social Feed App (Firebase + Riverpod)](#)  
+    Social media style feed with **Firebase Auth**, **Firestore**, **real-time chat features**, and **Riverpod** for state management.
+
 
 ---
+
 
 
 ## 🛠️ Tools & Technologies
@@ -45,4 +79,10 @@
 ## 📫 Contact Me 
 📧 [abeermohammadfarooq@gmail.com](mailto:abeermohammadfarooq@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/abeer-muhammad-farooq)
+
+
+
+---
+
+
 
