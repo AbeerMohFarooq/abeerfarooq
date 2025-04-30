@@ -78,7 +78,7 @@
 
 ## 📫 Contact Me 
 📧 [abeermohammadfarooq@gmail.com](mailto:abeermohammadfarooq@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/abeer-muhammad-farooq)
+🔗 [LinkedIn](https://linkedin.com/in/abeer-mohammad-farooq-22838a121)
 
 
 
