@@ -119,7 +119,7 @@ Encrypted note-taking app using AES encryption, biometric authentication, and se
 
 - 📧 **Email:** [abeermohammadfarooq@gmail.com](mailto:abeermohammadfarooq@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/abeer-farooq67](www.linkedin.com/in/abeer-farooq67)
-- 📱 **Phone:** +965 51379128
+- 📱 **WhatsApp:** +965 51379128
 
 
 ---
