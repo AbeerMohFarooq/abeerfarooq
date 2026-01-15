@@ -84,7 +84,7 @@ Implemented donation and payment features with an AI-powered chatbot for user as
 
 ### 🔹 Cross-Platform (Flutter)
 
-***📚 MyKG – Kids Education App**  
+**📚 MyKG – Kids Education App**  
 Interactive learning modules with child-friendly UI and BLoC state management.
 
 **☕ Qofi – Coffee Ordering App**  
